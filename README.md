@@ -28,7 +28,7 @@
 
 ## :red_circle: Contato
 
-- **LinkedIn**: [https://www.linkedin.com/in/giovanicavila/](link)
+- **LinkedIn**: [Giovani C. Avila](https://www.linkedin.com/in/giovanicavila/)
 - **E-mail**: [giovanicavila@gmail.com](mailto:giovani.exemplo@gmail.com)
 
 <br>
