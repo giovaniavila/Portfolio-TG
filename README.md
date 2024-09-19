@@ -56,3 +56,17 @@ Aqui estão alguns dos meus projetos mais recentes:
   <li>Identificação das máquinas</li>
   <li>Alteração de layout</li>
 </ul>
+
+No meu projeto SOS API, trabalhei em duas partes: a tela de cadastro da conta e a tela de pisos.
+
+Para a **tela de cadastro da conta**, meu objetivo foi criar uma interface onde os usuários pudessem se registrar no sistema. Utilizando apenas HTML e CSS, desenvolvi um formulário para que os usuários inserissem suas informações básicas, como nome, e-mail, turma e senha. Esse trabalho me ajudou a aprender a estruturar e estilizar formulários, e a fornecer um feedback visual claro para os usuários durante o processo de cadastro.
+
+Na **tela de pisos**, projetei uma interface para exibir as salas dos laboratórios da Fatec de São José dos Campos e permitir que os usuários navegassem facilmente para o layout específico de cada sala. Usando HTML e CSS, organizei as informações das salas em uma lista ou grade e incorporei links que redirecionam para visualizações detalhadas. Esse projeto me ajudou a desenvolver habilidades em criar navegação entre páginas e apresentar informações de forma clara e intuitiva.
+
+Em resumo, esse projeto foi meu primeiro contato com o desenvolvimento web e me proporcionou um aprendizado valioso dos conceitos elementares, incluindo HTML, CSS e JavaScript. Foi uma oportunidade para adquirir as habilidades básicas necessárias para um desenvolvedor front-end.
+
+<img src="https://github.com/user-attachments/assets/e7cfe953-6739-4e4a-9c49-70f2679523ac" alt="image" width="1000" height="600"/>
+
+<img src="https://github.com/user-attachments/assets/5a97fc3a-2edb-4924-9797-ee789a01afac" alt="image" width="1000" height="600"/>
+
+
