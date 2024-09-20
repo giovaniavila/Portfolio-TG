@@ -11,6 +11,9 @@
     <p>   No meu dia a dia na <strong>Dataside</strong>, trabalho com <strong>React</strong> para construção de aplicações dinâmicas e responsivas, <strong>Chakra UI</strong> para criar interfaces estilizadas e acessíveis, e <strong>React Query</strong> para lidar com o gerenciamento de cache, sincronização de dados remotos e controle de estado assíncrono. Através dessas ferramentas, tenho aprimorado minhas habilidades em otimizar o desempenho das aplicações e garantir que os dados sejam tratados de forma eficaz e confiável.
     </p>
     <p>
+     No que diz respeito às minhas soft skills, sou comunicativo e gosto de colaborar com diferentes áreas, o que me ajuda a trabalhar bem em equipe. Tenho facilidade em me adaptar a novas tecnologias e encarar desafios de forma resiliente, mantendo sempre o foco em resolver problemas de maneira prática e eficiente. A atenção aos detalhes e a busca por qualidade também fazem parte do meu perfil, o que contribui para entregar soluções bem desenvolvidas.
+    </p>
+    <p>
       Além disso, em meus projetos pessoais, tenho focado no campo do desenvolvimento frontend, o que me permitiu explorar e aplicar conceitos avançados de UI/UX, componentização e otimização de performance. Essas iniciativas me proporcionaram um aprendizado constante e hands-on com tecnologias modernas como <strong>Next.js</strong> e <strong>Tailwind CSS</strong>, ampliando minhas habilidades para criar aplicações escaláveis e de alta qualidade.
   </p>
 </p>
