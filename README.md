@@ -1,20 +1,20 @@
-# Portifólio Fatec - TG
+# Portfólio Fatec - TG
 
 ## Introdução
 <p>
  <p>
-  Iniciei meus estudos de computação no segundo semestre de 2022. Atualmente cursando o 5º semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Fatec de São José dos Campos</strong>. Além dos estudos, atuo como estagiário de desenvolvimento frontend na empresa <strong>Dataside</strong>, onde contribuo no desenvolvimento de interfaces de usuário modernas, bem como no gerenciamento eficiente de dados e cache utilizando o <strong>React Query</strong>.
+  Iniciei meus estudos de computação no segundo semestre de 2022 e, atualmente, estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos, sob a orientação do professor Fernando Masanori Ashikaga. Além disso, atuo como estagiário de desenvolvimento frontend na empresa Dataside, onde contribuo para o desenvolvimento de interfaces de usuário modernas, bem como no gerenciamento eficiente de dados e cache utilizando o React Query.
  </p>
   <p>
     <img align="right" src="https://github.com/user-attachments/assets/a13bfb96-dc7c-455f-ad85-23ced8d73703" alt="eu1" width="200" height="200" />
   </p>
-    <p>   No meu dia a dia na <strong>Dataside</strong>, trabalho com <strong>React</strong> para construção de aplicações dinâmicas e responsivas, <strong>Chakra UI</strong> para criar interfaces estilizadas e acessíveis, e <strong>React Query</strong> para lidar com o gerenciamento de cache, sincronização de dados remotos e controle de estado assíncrono. Através dessas ferramentas, tenho aprimorado minhas habilidades em otimizar o desempenho das aplicações e garantir que os dados sejam tratados de forma eficaz e confiável.
+    <p>   No meu dia a dia na Dataside, trabalho com React para a construção de aplicações dinâmicas e responsivas, Chakra UI para criar interfaces estilizadas e acessíveis, e React Query para lidar com o gerenciamento de cache, sincronização de dados remotos e controle de estado assíncrono. Através dessas ferramentas, tenho aprimorado minhas habilidades em otimizar o desempenho das aplicações e garantir que os dados sejam tratados de forma eficaz e confiável.
     </p>
     <p>
-     No que diz respeito às minhas soft skills, sou comunicativo e gosto de colaborar com diferentes áreas, o que me ajuda a trabalhar bem em equipe. Tenho facilidade em me adaptar a novas tecnologias e encarar desafios de forma resiliente, mantendo sempre o foco em resolver problemas de maneira prática e eficiente. A atenção aos detalhes e a busca por qualidade também fazem parte do meu perfil, o que contribui para entregar soluções bem desenvolvidas.
+     Quanto às minhas soft skills, sou comunicativo e colaborativo, o que me ajuda a trabalhar bem em equipe. Tenho facilidade em me adaptar a novas tecnologias e encarar desafios de forma resiliente, mantendo o foco em resolver problemas de maneira prática e eficiente. A atenção aos detalhes e a busca por qualidade também fazem parte do meu perfil, o que contribui para entregar soluções bem desenvolvidas.
     </p>
     <p>
-      Além disso, em meus projetos pessoais, tenho focado no campo do desenvolvimento frontend, o que me permitiu explorar e aplicar conceitos avançados de UI/UX, componentização e otimização de performance. Essas iniciativas me proporcionaram um aprendizado constante e hands-on com tecnologias modernas como <strong>Next.js</strong> e <strong>Tailwind CSS</strong>, ampliando minhas habilidades para criar aplicações escaláveis e de alta qualidade.
+      Além disso, em meus projetos pessoais, tenho focado no campo do desenvolvimento frontend, o que me permitiu explorar e aplicar conceitos avançados de UI/UX, componentização e otimização de performance. Isso me proporcionou um aprendizado constante com tecnologias como Next.js e Tailwind CSS, ampliando minhas habilidades para criar aplicações escaláveis e de alta qualidade.
   </p>
 </p>
 
@@ -50,6 +50,8 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 É um sistema de ordem de serviços com o objetivo principal de informar computadores com mau funcionamento dentro do campus FATEC prof. Jessen Vidal e também navegar de forma dinâmica pelo mapa da FATEC.
 
+A **empresa cliente** deste projeto é a própria **Fatec de São José dos Campos**, uma faculdade de tecnologia renomada, onde o sistema foi desenvolvido para melhorar a gestão e o reporte de problemas em computadores do campus. O projeto foi supervisionado pelos professores **Jean Carlos Lourenço Costa** e **Antonio Egydio**, que forneceram orientações durante todo o processo.
+
 ### Solução de proposta
 <ul>
   <li>Sistema web utilizando flask</li>
@@ -60,21 +62,32 @@ Aqui estão alguns dos meus projetos mais recentes:
   <li>Alteração de layout</li>
 </ul>
 
-No meu projeto SOS API, trabalhei em duas partes principais: a tela de cadastro da conta e a tela de pisos.
+No meu projeto SOS-API, trabalhei em duas partes principais: a tela de cadastro de contas e a tela de pisos.
 
-A **empresa** envolvida no projeto é a Fatec de São José dos Campos, e o **problema** enfrentado foi a necessidade de desenvolver um sistema de ordem de serviços com o objetivo principal de informar sobre computadores com mau funcionamento dentro do campus FATEC Prof. Jessen Vidal e também permitir uma navegação dinâmica pelo mapa da FATEC. A tela de cadastro precisava ser clara e eficiente para novos usuários, enquanto a tela de pisos deveria oferecer uma navegação intuitiva para explorar os diferentes layouts dos laboratórios.
+<strong>Problema</strong>: A FATEC precisava de um sistema para informar sobre computadores com mau funcionamento e permitir uma navegação dinâmica pelo mapa do campus.
 
-Para resolver esses problemas, desenvolvi a **solução** utilizando apenas HTML e CSS. Criei uma tela de cadastro que permite aos usuários registrar suas informações básicas, como nome, e-mail, turma e senha, com um design que oferece feedback visual claro durante o processo. Para a tela de pisos, projetei uma interface que exibe as salas dos laboratórios em uma lista organizada, com links para visualizar o layout detalhado de cada sala. Isso facilita a navegação e melhora a experiência do usuário.
+<strong>Solução</strong>: Desenvolvi o sistema utilizando HTML, CSS e Flask. A tela de cadastro de contas foi projetada para ser clara e eficiente para novos usuários, enquanto a tela de pisos permite navegação intuitiva pelos diferentes layouts dos laboratórios.
 
-Durante o projeto, desenvolvi e apliquei várias **hard skills**, incluindo HTML, CSS e JavaScript. Aprendi a estruturar e estilizar formulários, criar navegação entre páginas e apresentar informações de forma clara e intuitiva. Esse projeto foi uma oportunidade valiosa para reforçar minhas habilidades técnicas e ganhar experiência prática em desenvolvimento front-end.
+Durante o desenvolvimento, trabalhei com várias hard skills, como HTML, CSS e Flask, apliquei conceitos de estruturação de formulários, navegação entre páginas e apresentação de informações de maneira intuitiva. Meu nível de proficiência nessas tecnologias está entre intermediário e avançado.
 
-Além das habilidades técnicas, também desenvolvi importantes **soft skills**, como resolução de problemas, comunicação eficaz e gerenciamento de tempo. Trabalhar em sprints exigiu organização, comunicação contínua com a equipe e a capacidade de encontrar soluções criativas para os desafios que surgiram.
+Além disso, desenvolvi soft skills importantes, como resolução de problemas, comunicação eficaz e gerenciamento de tempo. Trabalhar em equipe e em sprints exigiu uma comunicação contínua e soluções criativas para superar desafios. Um exemplo real de aplicação dessas soft skills foi a integração eficiente de feedbacks da equipe para melhorar a navegação do usuário no sistema.
 
-Em resumo, esse projeto foi meu primeiro contato com o desenvolvimento web e me proporcionou um aprendizado fundamental dos conceitos elementares, enquanto também desenvolvi competências interpessoais importantes.
+Em resumo, este projeto foi meu primeiro contato com o desenvolvimento web e me proporcionou um aprendizado fundamental sobre conceitos básicos, enquanto também me ajudou a desenvolver competências interpessoais e técnicas.
 
+### Tecnologias utilizadas:
+- **HTML**: Estruturação e desenvolvimento das interfaces web.
+- **CSS**: Estilização das páginas para garantir design responsivo e atraente.
+- **Flask**: Framework backend para criação de aplicações web e APIs.
+
+<br>
 
 <img src="https://github.com/user-attachments/assets/e7cfe953-6739-4e4a-9c49-70f2679523ac" alt="image" width="1000" height="600"/>
 
 <img src="https://github.com/user-attachments/assets/5a97fc3a-2edb-4924-9797-ee789a01afac" alt="image" width="1000" height="600"/>
+
+<br>
+
+### Link do repositório 
+- [Primeira API](https://github.com/apiFatec/SOS_API)
 
 
