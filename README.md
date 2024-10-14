@@ -41,7 +41,7 @@
 Aqui estão alguns dos meus projetos mais recentes:
 
 1. **[Projeto 1 - SOS-API](#sos-api)**: Projeto do Primeiro Semestre.
-2. **[Projeto 2 - SOS-API](#api-2-semestre)**: Projeto do Primeiro Semestre.
+2. **[Projeto 2 - SOS-API](#api-2-semestre)**: Projeto do Segundo Semestre.
 
 <br>
 
