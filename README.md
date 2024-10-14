@@ -40,12 +40,13 @@
 
 Aqui estão alguns dos meus projetos mais recentes:
 
-1. **[Projeto 1 - SOS-API](#sos-api)**: Projeto do Primeiro Semestre.
-2. **[Projeto 2 - API-2-SEMESTRE](#api-2-semestre)**: Projeto do Segundo Semestre.
+1. **[Projeto 1 - SOS-API](https://github.com/apiFatec/SOS_API)**: Projeto do Primeiro Semestre.
+2. **[Projeto 2 - API-2-SEMESTRE](https://github.com/apiFatec/API-2-Semestre-Bertoti)**: Projeto do Segundo Semestre.
 
 <br>
 
-## SOS-API
+<details id="sos-api">
+<summary><h2>SOS-API</h2></summary>
 
 ### Service Out System SOS
 
@@ -90,10 +91,10 @@ Em resumo, este projeto foi meu primeiro contato com o desenvolvimento web e me 
 
 ### Link do repositório 
 - [Primeira API](https://github.com/apiFatec/SOS_API)
+</details>
 
-<br>
-
-## API-2-SEMESTRE
+<details id="api-2-semestre">
+<summary><h2>API Do Segundo Semestre</h2></summary>
 
 ### Api-2-semestre
 
@@ -126,7 +127,6 @@ Em resumo, este foi meu segundo projeto de API da Fatec, onde aprofundei minhas 
 - **Scene Builder:**: Ferramenta para construção visual das telas de forma eficiente.
 - **MySQL**: Banco de dados para armazenamento e gerenciamento das informações dos alunos.
 
-<br>
 
 ### [Commit da alteração - Criação da tela de adicionar aluno](https://github.com/apiFatec/API-2-Semestre-Bertoti/commit/119969bf15206b26cbbabfa5ad3b2bc19854c5c7#diff-0cfeb9859735023f36f7e40478fb48adf7543a07b33f68c56fbc92c42d84209c)
 ![image](https://github.com/user-attachments/assets/b86f605e-9bcb-4ce8-8028-331510727c12)
@@ -230,10 +230,10 @@ import java.net.URL;
     }
 ```
 
-<br>
-
 ### Link do repositório 
 - [Segunda API](https://github.com/apiFatec/API-2-Semestre-Bertoti)
+
+</details>
 
 
 
