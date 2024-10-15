@@ -72,7 +72,7 @@ No meu projeto SOS-API, trabalhei em duas partes principais: a tela de cadastro 
 
 <strong>Solução</strong>: Desenvolvi o sistema utilizando HTML, CSS e Flask. A tela de cadastro de contas foi projetada para ser clara e eficiente para novos usuários, enquanto a tela de pisos permite navegação intuitiva pelos diferentes layouts dos laboratórios.
 
-Durante o desenvolvimento, trabalhei com várias hard skills, como HTML, CSS e Flask, apliquei conceitos de estruturação de formulários, navegação entre páginas e apresentação de informações de maneira intuitiva. Meu nível de proficiência nessas tecnologias está entre intermediário e avançado.
+Durante o desenvolvimento, trabalhei com várias hard skills, como HTML, CSS e Flask, apliquei conceitos de estruturação de formulários, navegação entre páginas e apresentação de informações de maneira intuitiva. Meu nível de proficiência nessas tecnologias está entre intermediário e avançado. Meu nível de proficiência em HTML e CSS é avançado e intermediário em Flask.
 
 Além disso, desenvolvi soft skills importantes, como resolução de problemas, comunicação eficaz e gerenciamento de tempo. Trabalhar em equipe e em sprints exigiu uma comunicação contínua e soluções criativas para superar desafios. Um exemplo real de aplicação dessas soft skills foi a integração eficiente de feedbacks da equipe para melhorar a navegação do usuário no sistema.
 
