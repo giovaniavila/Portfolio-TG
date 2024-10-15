@@ -42,6 +42,8 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 1. **[Projeto 1 - SOS-API](https://github.com/apiFatec/SOS_API)**: Projeto do Primeiro Semestre.
 2. **[Projeto 2 - API-2-SEMESTRE](https://github.com/apiFatec/API-2-Semestre-Bertoti)**: Projeto do Segundo Semestre.
+2. **[Projeto 3 - API-3-SEMESTRE](https://github.com/apiFatec/API-3-Semestre-Ionic)**: Projeto do Terceiro Semestre.
+2. **[Projeto 4 - API-4-SEMESTRE](https://github.com/Equipe-FULLSTACK/API-4)**: Projeto do Quarto Semestre.
 
 <br>
 
@@ -76,7 +78,7 @@ Além disso, desenvolvi soft skills importantes, como resolução de problemas, 
 
 Em resumo, este projeto foi meu primeiro contato com o desenvolvimento web e me proporcionou um aprendizado fundamental sobre conceitos básicos, enquanto também me ajudou a desenvolver competências interpessoais e técnicas.
 
-### Tecnologias utilizadas:
+### Tecnologias utilizadas no projeto:
 - **HTML**: Estruturação e desenvolvimento das interfaces web.
 - **CSS**: Estilização das páginas para garantir design responsivo e atraente.
 - **Flask**: Framework backend para criação de aplicações web e APIs.
@@ -121,7 +123,7 @@ Durante o desenvolvimento, utilizei Java para a lógica de programação, JavaFX
 
 Em resumo, este foi meu segundo projeto de API da Fatec, onde aprofundei minhas habilidades técnicas e desenvolvi competências interpessoais essenciais para o sucesso do projeto.
 
-### Tecnologias utilizadas:
+### Tecnologias utilizadas no projeto:
 - **Java**: Desenvolvimento da lógica do sistema e controle de rendimento dos alunos.
 - **JavaFX**: Criação das interfaces gráficas para o sistema desktop.
 - **Scene Builder:**: Ferramenta para construção visual das telas de forma eficiente.
@@ -264,7 +266,7 @@ Durante o desenvolvimento, utilizei React e Tailwindcss para criar uma interface
 
 Em resumo, este projeto com a Ionic Health foi uma excelente oportunidade para aprofundar minhas habilidades técnicas e fortalecer competências interpessoais, como comunicação e resolução de problemas, essenciais para o sucesso da equipe e do sistema desenvolvido.
 
-### Tecnologias utilizadas:
+### Tecnologias utilizadas no projeto:
 - **React**: Desenvolvimento da lógica do sistema e interface web.
 - **Typescript**: Tipagem estática para aumentar a segurança e robustez do código.
 - **Nest:**: Biblioteca de componentes para construção de interfaces acessíveis e responsivas.
@@ -337,5 +339,59 @@ const routesForAdminGestor = [
 
 </details>
 
+
+<details id="api-4-semestre">
+<summary><h2>API Do Quarto Semestre</h2></summary>
+
+### Api-4-semestre
+
+No quarto semestre, desenvolvemos um projeto focado no controle de agendamentos de salas para reuniões, abrangendo tanto salas presenciais quanto online. O sistema permitia o gerenciamento de disponibilidade, controle de reuniões e reservas de salas.
+
+A empresa cliente é a Siatt, uma empresa especializada na integração de sistemas com alto conteúdo tecnológico, que fornece soluções para as demandas dos setores de defesa e aeroespacial. A Siatt trabalha com armamentos inteligentes, como mísseis e bombas guiadas, além de realizar a integração de armamentos inteligentes em plataformas para aeronaves, tanques, navios e veículos terrestres. Também desenvolve radares e sensores, além de sistemas e equipamentos de aviação. O projeto foi supervisionado pelos professores Fabiano Sabha e Juliana Forin Pasquini Martinez, que forneceram orientações ao longo de todo o processo.
+
+### Solução de proposta
+<ul>
+  <li>Agendar reuniões de diferentes categorias.</li>
+  <li>Ter a capacidade de agendar reuniões presenciais, online e híbridas em diferentes níveis de permissão.</li>
+  <li>Layout intuitivo para fácil visualização de horários e locais.</li>
+  <li>Reduzir o tempo de agendamento e distribuir responsabilidades.</li>
+</ul>
+
+No meu projeto de api do quarto semestre, trabalhei em três partes principais: validação do nível de usuário, correção da lista de salas, e a lista de salas online.
+
+<strong>Problema</strong>: A Siatt necessitava de um sistema eficaz para gerenciar o agendamento de reuniões em salas, com foco na automação e otimização do processo.
+
+<strong>Solução</strong>: Desenvolvi a lógica de validação do nível de usuário, permitindo identificar se o usuário é admin ou comum. Fiz a correção da lista de salas com base nas categorias online e presencial, além de desenvolver a tela da lista de salas online, que possui links que redirecionam para as reuniões. Também integrei todas essas funcionalidades com o backend, garantindo que os dados fossem atualizados em tempo real.
+
+Durante o desenvolvimento, utilizei React, onde tenho um nível avançado de experiência, e Material UI, com nível intermediário. A experiência me permitiu aprimorar minha habilidade de comunicação, pois precisei colaborar com a equipe para garantir que todos os requisitos fossem compreendidos e atendidos. Essa colaboração foi fundamental para resolver desafios na integração de sistemas e assegurar que o projeto fosse entregue dentro do cronograma.
+
+Em resumo, este projeto com a Siatt foi uma excelente oportunidade para aprofundar minhas habilidades técnicas em automação e gerenciamento de sistemas, além de fortalecer competências interpessoais essenciais para o sucesso do projeto.
+
+### Tecnologias utilizadas no projeto:
+- **React**: Desenvolvimento da lógica do sistema e interface web.
+- **Material UI**: Biblioteca de componentes para construção de interfaces acessíveis e responsivas.
+- **Typescript**: Linguagem que adiciona tipagem estática ao JavaScript, melhorando a segurança e robustez do código.
+- **Mysql:**: Banco de dados relacional utilizado para armazenamento e gerenciamento de dados.
+- **Node JS**: Ambiente de execução para o backend, permitindo a criação de APIs e integração com o banco de dados.
+
+### [Commit da alteração - Validação do nível de usuário](https://github.com/Equipe-FULLSTACK/API-4/commit/b2db022f259222514afc7790f74121597015497b)
+#### renderiza a sidebar de acordo com o nível do usuário (user ou admin)
+![image](https://github.com/user-attachments/assets/437c73fa-fffb-4614-9c4b-2532234cb198)
+![image](https://github.com/user-attachments/assets/16cdee10-edb2-4868-8f29-d894243725eb)
+
+
+### [Commit da alteração - Correção da lista de salas](https://github.com/Equipe-FULLSTACK/API-4/commit/4ac733972428f64548ee3efd460aef7e50add293)
+### [Commit da alteração - Correção da lista de salas-estilos](https://github.com/Equipe-FULLSTACK/API-4/commit/310f92dff15a201e44ebc20264aef77c0b45d0c3)
+![image](https://github.com/user-attachments/assets/9ffcb962-9ff2-48e2-9be2-3b14c57986d6)
+
+
+### [Commit da alteração - Criação da tela de salas online](https://github.com/Equipe-FULLSTACK/API-4/commit/7ea556ae2298d96082c86d70e13788af425046a1)
+![image](https://github.com/user-attachments/assets/46e90379-762b-4255-8eab-529592113a25)
+
+
+### Link do repositório 
+- [Quarta API](https://github.com/Equipe-FULLSTACK/API-4)
+
+</details>
 
 
