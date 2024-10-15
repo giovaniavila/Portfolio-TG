@@ -236,4 +236,106 @@ import java.net.URL;
 </details>
 
 
+<details id="api-3-semestre">
+<summary><h2>API Do Terceiro Semestre</h2></summary>
+
+### Api-3-semestre
+
+O objetivo agora é desenvolver um sistema web utilizando React, focado no gerenciamento e automação de processos regulatórios na área da saúde. A plataforma centraliza o controle de documentações, prazos e monitoramento em tempo real, garantindo eficiência e conformidade.
+
+A empresa cliente é a Ionic Health, uma empresa brasileira inovadora fundada em 2019, com sede no Parque Tecnológico de São José dos Campos. Especializada em automação e diagnóstico médico, a Ionic Health atende clientes no Brasil, Portugal e Estados Unidos, sempre com foco em qualidade, segurança e inovação digital. O projeto foi supervisionado pelos professores Claudio Etelvino de Lima e Fernando Masanori Ashikaga, que forneceram orientações ao longo de todo o processo de desenvolvimento.
+
+### Solução de proposta
+<ul>
+  <li>Monitoramento em tempo real dos processos regulatórios.</li>
+  <li>Documentação centralizada e rastreável de todas as etapas.</li>
+  <li>Gestão automatizada de prazos e notificações.</li>
+  <li>Controle de acesso seguro e personalizado.</li>
+  <li>Relatórios detalhados e análises de desempenho dos processos.</li>
+</ul>
+
+No meu projeto de api do terceiro semestre, trabalhei em três partes principais: a implementação do primeiro botão de dropdown do usuário, a verificação do tipo de usuário para renderizar as rotas adequadas para cada perfil, e a melhoria do botão de alternância entre os temas dark e light.
+
+<strong>Problema</strong>: A Ionic Health precisava de um sistema para gerenciar processos regulatórios na área da saúde, com foco na administração de documentação e acompanhamento de prazos.
+
+<strong>Solução</strong>:  Desenvolvi a lógica de verificação de tipo de usuário, que gerencia a renderização das rotas de acordo com o perfil (admin ou usuário comum), permitindo uma navegação personalizada e segura. Além disso, implementei o primeiro dropdown do usuário, garantindo uma experiência de uso intuitiva. Também trabalhei na melhoria do botão de alternância entre temas dark e light, garantindo uma interface mais acessível e moderna.
+
+Durante o desenvolvimento, utilizei React e Tailwindcss para criar uma interface fluida e lógica de programação eficiente. Ao longo do projeto, demonstrei habilidades de comunicação e trabalho em equipe, garantindo que os requisitos fossem entendidos claramente e que as entregas fossem realizadas dentro dos prazos estabelecidos. Além disso, mostrei resiliência e resolução de problemas ao corrigir uma falha no controle de rotas, que exigiu análise e colaboração com a equipe para implementar a solução de maneira eficaz. Essas experiências fortaleceram minhas habilidades de adaptabilidade, sempre focadas em entregar soluções de qualidade, mesmo sob prazos curtos.
+
+Em resumo, este projeto com a Ionic Health foi uma excelente oportunidade para aprofundar minhas habilidades técnicas e fortalecer competências interpessoais, como comunicação e resolução de problemas, essenciais para o sucesso da equipe e do sistema desenvolvido.
+
+### Tecnologias utilizadas:
+- **React**: Desenvolvimento da lógica do sistema e interface web.
+- **Typescript**: Tipagem estática para aumentar a segurança e robustez do código.
+- **Nest:**: Biblioteca de componentes para construção de interfaces acessíveis e responsivas.
+- **ShadCN**: Sistema de design para a criação de temas visuais.
+- **Postgres**: Banco de dados para armazenamento e gerenciamento das informações regulatórias.
+
+
+### [Commit da alteração - Criação da tela de dropdown Button](https://github.com/apiFatec/API-3-Semestre-Ionic/commit/8fb20cad4b57de246f26aec55a7f4c95146e826a)
+![image](https://github.com/user-attachments/assets/3cec82a8-73d4-45e6-980e-295f09adbfe3)
+
+
+### [Commit da alteração - Desenvolvimento do controle de rotas](https://github.com/apiFatec/API-3-Semestre-Ionic/commit/da60f1a875b59723e78f4951e6f5fbd398d2ce4b#diff-cd6a4a1ced74971ccc7823e2fe1f397927c23d7f9ea264a6d0f844c7588ace43)
+```
+const routes = [
+  {
+@@ -26,42 +33,79 @@ const routes = [
+    label: "Settings",
+    icon: Settings,
+    href: "/settings",
+  }
+];
+const routesForAdminGestor = [
+  {
+    label: "Criar Processo",
+    icon: LayoutDashboard,
+    href: "/criar-processo",
+    color: "text-sky-500",
+  },
+  {
+    label: "Processos",
+    icon: LayoutList,
+    href: "/processos",
+    color: "text-violet-500",
+  },
+  {
+    label: "Equipes",
+    icon: Network,
+    href: "/image",
+    color: "text-pink-700",
+  },
+  {
+    label: "Settings",
+    icon: Settings,
+    href: "/settings",
+  },
+  {
+    label: "cadastrar colaborador",
+    icon: UserPlus2,
+    href: "/admin-register",
+  },
+];
+
+ const { isAuthenticated, role } = useAuth();
+  const selectedRoutes =
+    isAuthenticated && (role === "Lider" || role === "Gestor")
+      ? routesForAdminGestor
+      : routes;
+```
+
+
+### [Commit da alteração - Melhoria do theme toggle button](https://github.com/apiFatec/API-3-Semestre-Ionic/commit/dc359fde21ccad51cdbf47ce80fe63c3ea138930)
+![image](https://github.com/user-attachments/assets/e132330b-9d18-4b41-87b5-6693ec42630a)
+![image](https://github.com/user-attachments/assets/3f3351bb-bb54-4eab-8ce9-4174f5a80dd1)
+
+
+
+
+### Link do repositório 
+- [Terceira API](https://github.com/apiFatec/API-3-Semestre-Ionic)
+
+</details>
+
+
 
