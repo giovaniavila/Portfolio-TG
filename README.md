@@ -3,6 +3,7 @@
 ## Introdução
 <p>
  <p>
+  Desde a infância, sempre tive um grande interesse por computadores e tecnologia. Meu passatempo favorito era pesquisar sobre os modelos mais atuais de processadores, placas de vídeo e outras novidades do mundo da informática, sempre com o intuito de me atualizar sobre o poder de hardware dos computadores, principalmente para otimizar a experiência em jogos. Esse interesse inicial por hardware me levou naturalmente a explorar também o desenvolvimento de software. Meu primeiro contato com a programação foi através do curso de Python do professor Gustavo Guanabara, no Curso em Vídeo, o que despertou ainda mais meu interesse pela área. 
   Iniciei meus estudos de computação no segundo semestre de 2022 e, atualmente, estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos, sob a orientação do professor Fernando Masanori Ashikaga. Além disso, atuo como estagiário de desenvolvimento frontend na empresa Dataside, onde contribuo para o desenvolvimento de interfaces de usuário modernas, bem como no gerenciamento eficiente de dados e cache utilizando o React Query.
  </p>
   <p>
