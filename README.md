@@ -46,6 +46,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 2. **[Projeto 3 - API-3-SEMESTRE](https://github.com/apiFatec/API-3-Semestre-Ionic)**: Projeto do Terceiro Semestre.
 2. **[Projeto 4 - API-4-SEMESTRE](https://github.com/Equipe-FULLSTACK/API-4)**: Projeto do Quarto Semestre.
 2. **[Projeto 5 - API-5-SEMESTRE](https://github.com/FATEC-FULLSTACK/FRONTEND-API5S)**: Projeto do Quinto Semestre.
+2. **[Projeto 6 - API-6-SEMESTRE](https://github.com/FATEC-FULLSTACK/FRONTEND-API6S)**: Projeto do Sexto Semestre.
 
 <br>
 
@@ -335,6 +336,51 @@ Em resumo, este projeto foi uma excelente oportunidade para aprimorar minhas hab
 
 ### Link do repositório 
 - [Quinta API](https://github.com/FATEC-FULLSTACK/FRONTEND-API5S)
+
+</details>
+
+
+<details id="api-6-semestre">
+<summary><h2>API Do Sexto Semestre</h2></summary>
+
+### Api-6-semestre
+
+O desafio proposto pela Dom Rock envolve o desenvolvimento de uma aplicação web para avaliação de respostas geradas por modelos de linguagem (LLMs), com o objetivo de aprimorar seu retreinamento a partir de feedback humano.A aplicação deverá permitir o envio simultâneo de um mesmo prompt para dois LLMs por meio de API, exibir as duas respostas obtidas e possibilitar que o usuário avalie individualmente cada uma delas, além de compará-las e justificar qual considera superior. Todas as avaliações e justificativas deverão ser armazenadas em um banco de dados para uso futuro no processo de retreinamento dos modelos.
+
+A empresa cliente deste a Dom Rock é uma empresa de tecnologia focada em promover alta produtividade e agilidade nas decisões operacionais e estratégicas das organizações, por meio da combinação poderosa entre algoritmos de inteligência artificial, modelos analíticos complexos e uma arquitetura baseada em datalake..
+
+<strong>Problema</strong>: A Dom Rock enfrenta o desafio de aprimorar o retreinamento de modelos de linguagem (LLMs), tornando-os mais eficazes e alinhados às necessidades dos usuários. Para isso, é necessário coletar feedback humano estruturado que permita comparar e avaliar as respostas geradas por diferentes LLMs diante de um mesmo prompt. No entanto, a ausência de uma ferramenta dedicada que possibilite esse tipo de avaliação comparativa limita a capacidade da empresa de evoluir seus modelos com base em dados reais e julgamentos qualitativos.
+
+### Proposta de Solução
+<ul> <li>Para resolver o problema de ausência de uma ferramenta que permita avaliação estruturada de respostas de LLMs, desenvolvi uma aplicação web centrada na experiência do usuário, com um fluxo intuitivo que orienta o avaliador desde o envio do prompt até a justificativa da melhor resposta. O design foi pensado para permitir uma comparação clara entre as respostas dos modelos, destacando as diferenças de forma visual e organizada. Estruturei telas de avaliação que guiam o usuário na atribuição de notas e justificativas de maneira simples e eficiente. Além disso, toda a lógica da interface foi construída para garantir que as avaliações fossem armazenadas corretamente, possibilitando que esses dados sejam utilizados no retreinamento futuro dos modelos com base em feedback humano real e qualificado.</li> </ul>
+
+No projeto do sexto semestre, fui responsável por todo o design da aplicação, incluindo o fluxo inicial da interface, priorizando a experiência do usuário. Também desenvolvi todo o frontend utilizando Vue 3, com Pinia para o gerenciamento de estado e Axios para o consumo da API. 
+
+<strong>Solução</strong>: 
+
+Durante o desenvolvimento realizei o design inicial utilizando o board do figma, criação de wireframes e o protótipo final. Também fui o principal desenvolvedor frontend para esse projeto, criando as interfaces desde o início até o final da aplicação, também realizei as integrações utilizando Axios e Pinia para gerenciar estados na aplicação. 
+
+No decorrer do projeto, demonstrei soft skills essenciais, como adaptabilidade, comunicação eficaz e trabalho em equipe. Por exemplo, durante a fase final do desenvolvimento, identifiquei um problema inesperado na interface que dificultava a comparação das respostas dos LLMs. Para resolver isso rapidamente, precisei me adaptar ao cenário, colaborar diretamente com o time de backend para entender as limitações da API e comunicar claramente as alterações necessárias. Além disso, organizei sessões de testes com usuários para validar a solução, garantindo que as melhorias atendessem às necessidades reais antes do prazo final.
+
+Em resumo, este foi meu sexto projeto de API da Fatec, onde aprofundei minhas habilidades técnicas e desenvolvi competências interpessoais essenciais para o sucesso do projeto.
+
+### Tecnologias utilizadas no projeto:
+- **Vue3**: Desenvolvimento da lógica do sistema e controle do estado da aplicação.
+- **Pinia**: Gerenciamento do estado da aplicação, facilitando a organização dos dados entre os componentes.
+- **Axios:**: Consumo da API para comunicação entre o frontend e o backend.
+- **Figma**: Ferramenta utilizada para o design das interfaces, criação de wireframes e protótipos visuais.
+
+![image](https://github.com/user-attachments/assets/611011f7-e385-4855-aa52-a71ff93d672d)
+
+![image](https://github.com/user-attachments/assets/b539a9a6-68e4-467f-9e92-3d5a93c39dd7)
+
+![image](https://github.com/user-attachments/assets/8c334f60-6915-47b3-acf2-1a49adc90f1a)
+
+![image](https://github.com/user-attachments/assets/2c21d2bd-96dc-446e-a98d-964355211727)
+
+
+### Link do repositório 
+- [Sexto API](https://github.com/FATEC-FULLSTACK/FRONTEND-API6S)
 
 </details>
 
