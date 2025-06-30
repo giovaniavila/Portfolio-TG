@@ -148,10 +148,9 @@ No decorrer do projeto, demonstrei soft skills importantes, como adaptação e c
 </details>
 
 <details id="api-3-semestre">
-<summary><h2>Terceiro Semestre (2023 - 2)</h2></summary>
+<summary><h2>API Do Terceiro Semestre</h2></summary>
 
-### Api-3-semestre
-
+### Terceiro Semestre (2023 - 2)
 O objetivo desse projeto era desenvolver um sistema web utilizando React, focado no gerenciamento e automação de processos regulatórios na área da saúde. A plataforma centraliza o controle de documentações, prazos e monitoramento em tempo real, garantindo eficiência e conformidade.
 
 A **empresa cliente** é a **Ionic Health**, uma empresa brasileira inovadora fundada em 2019, com sede no Parque Tecnológico de São José dos Campos. Especializada em automação e diagnóstico médico, a Ionic Health atende clientes no Brasil, Portugal e Estados Unidos, sempre com foco em qualidade, segurança e inovação digital. O projeto foi supervisionado pelos professores Claudio Etelvino de Lima e Fernando Masanori Ashikaga, que forneceram orientações ao longo de todo o processo de desenvolvimento.
@@ -190,9 +189,9 @@ Ao longo do projeto, demonstrei soft skills importantes, como comunicação e tr
 </details>
 
 <details id="api-4-semestre">
-<summary><h2>Quarto Semestre (2024 - 1) </h2></summary>
+<summary><h2> Api do Quarto Semestre </h2></summary>
 
-### Api-4-semestre
+### Quarto Semestre (2024 - 1)
 
 No quarto semestre, desenvolvemos um projeto focado no controle de agendamentos de salas para reuniões, abrangendo tanto salas presenciais quanto online. O sistema permitia o gerenciamento de disponibilidade, controle de reuniões e reservas de salas.
 
@@ -235,9 +234,9 @@ Um exemplo de como atuei na resolução de problemas foi quando a equipe teve di
 
 
 <details id="api-5-semestre">
-<summary><h2>Quinto Semestre (2024 - 2)</h2></summary>
+<summary><h2>Api Do Quinto Semestre</h2></summary>
 
-### Api-5-semestre
+### Quinto Semestre (2024 - 2)
 
 No quinto semestre, desenvolvemos o projeto Clima Monitor, com o objetivo de monitorar regiões de áreas florestadas para coletar e analisar dados climáticos. O sistema foi projetado para fornecer alertas relacionados à pluviometria, temperatura e outros fatores que podem impactar diretamente essas áreas, promovendo a preservação e gestão eficiente.
 
@@ -288,9 +287,9 @@ Durante a integração com a API do Google Maps, a equipe enfrentou dificuldades
 
 
 <details id="api-6-semestre">
-<summary><h2>Sexto Semestre (2025 - 1)</h2></summary>
+<summary><h2>Api Do Sexto Semestre</h2></summary>
 
-### Api-6-semestre
+### Sexto Semestre (2025 - 1)
 
 O projeto proposto pela Dom Rock envolve o desenvolvimento de uma aplicação web para avaliação de respostas geradas por modelos de linguagem (LLMs), com o objetivo de aprimorar seu retreinamento a partir de feedback humano.A aplicação deverá permitir o envio simultâneo de um mesmo prompt para dois LLMs por meio de API, exibir as duas respostas obtidas e possibilitar que o usuário avalie individualmente cada uma delas, além de compará-las e justificar qual considera superior. Todas as avaliações e justificativas deverão ser armazenadas em um banco de dados para uso futuro no processo de retreinamento dos modelos.
 
