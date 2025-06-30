@@ -3,7 +3,7 @@
 ## Introdução
 <p>
  <p>
-  Desde a infância, sempre tive um grande interesse por computadores e tecnologia. Meu passatempo favorito era pesquisar sobre os modelos mais atuais de processadores, placas de vídeo e outras novidades do mundo da informática, sempre com o intuito de me atualizar sobre o poder de hardware dos computadores, principalmente para otimizar a experiência em jogos. Esse interesse inicial por hardware me levou naturalmente a explorar também o desenvolvimento de software. Meu primeiro contato com a programação foi através do curso de Python do professor Gustavo Guanabara, no Curso em Vídeo, o que despertou ainda mais meu interesse pela área. 
+  Meu nome é Giovani Carvalho Avila e desde a infância sempre tive um grande interesse por computadores e tecnologia. Meu passatempo favorito era pesquisar sobre os modelos mais atuais de processadores, placas de vídeo e outras novidades do mundo da informática, sempre com o intuito de me atualizar sobre o poder de hardware dos computadores, principalmente para otimizar a experiência em jogos. Esse interesse inicial por hardware me levou naturalmente a explorar também o desenvolvimento de software. Meu primeiro contato com a programação foi através do curso de Python do professor Gustavo Guanabara, no Curso em Vídeo, o que despertou ainda mais meu interesse pela área. 
   Iniciei meus estudos de computação no segundo semestre de 2022 e, atualmente, estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas na Fatec de São José dos Campos, sob a orientação do professor Fernando Masanori Ashikaga. Além disso, atuo como estagiário de desenvolvimento frontend na empresa Dataside, onde contribuo para o desenvolvimento de interfaces de usuário modernas, bem como no gerenciamento eficiente de dados e cache utilizando o React Query.
  </p>
   <p>
@@ -41,7 +41,7 @@
 
 Aqui estão alguns dos meus projetos mais recentes:
 
-1. **[Projeto 1 - SOS-API](https://github.com/apiFatec/SOS_API)**: Projeto do Primeiro Semestre.
+1. **[Projeto 1 - API-1-SEMESTRE](https://github.com/apiFatec/SOS_API)**: Projeto do Primeiro Semestre.
 2. **[Projeto 2 - API-2-SEMESTRE](https://github.com/apiFatec/API-2-Semestre-Bertoti)**: Projeto do Segundo Semestre.
 2. **[Projeto 3 - API-3-SEMESTRE](https://github.com/apiFatec/API-3-Semestre-Ionic)**: Projeto do Terceiro Semestre.
 2. **[Projeto 4 - API-4-SEMESTRE](https://github.com/Equipe-FULLSTACK/API-4)**: Projeto do Quarto Semestre.
@@ -51,7 +51,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 <br>
 
 <details id="sos-api">
-<summary><h2>SOS-API</h2></summary>
+<summary><h2>API Do Primeiro Semestre</h2></summary>
 
 ### Service Out System SOS
 
@@ -73,13 +73,14 @@ A **empresa cliente** deste projeto é a própria **Fatec de São José dos Camp
 
 No meu projeto SOS-API, trabalhei em duas partes principais: a tela de cadastro de contas e a tela de pisos.
 
-<strong>Solução</strong>: Desenvolvi o sistema utilizando HTML, CSS e Flask. A tela de cadastro de contas foi projetada para ser clara e eficiente para novos usuários, enquanto a tela de pisos permite navegação intuitiva pelos diferentes layouts dos laboratórios.
+### Contribuições pessoais
+<strong>Solução</strong>: Desenvolvi o sistema utilizando HTML, CSS e Flask. A tela de cadastro de contas foi projetada para ser clara e eficiente para novos usuários, enquanto a tela de pisos permite navegação intuitiva pelos diferentes layouts dos laboratórios. Em resumo, este projeto foi meu primeiro contato com o desenvolvimento web e me proporcionou um aprendizado fundamental sobre conceitos básicos, enquanto também me ajudou a desenvolver competências interpessoais e técnicas.
 
-Durante o desenvolvimento, trabalhei com várias hard skills, como HTML, CSS e Flask, aplicando conceitos de estruturação de formulários, navegação entre páginas e apresentação de informações de maneira intuitiva. Meu nível de proficiência nessas tecnologias está entre intermediário e avançado, sendo avançado em HTML e CSS e intermediário em Flask.
+### Hard Skills
+Durante o desenvolvimento, trabalhei com várias hard skills, como HTML, CSS e Flask, aplicando conceitos de estruturação de formulários, navegação entre páginas e apresentação de informações de maneira intuitiva. Meu nível de proficiência nessas tecnologias está entre intermediário e avançado, sendo avançado em HTML e CSS e intermediário em Flask. 
 
+### Soft Skills
 Além disso, desenvolvi soft skills importantes, como resolução de problemas, comunicação eficaz e gerenciamento de tempo. Trabalhar em equipe e em sprints exigiu uma comunicação contínua e soluções criativas para superar desafios. Um exemplo real de aplicação dessas soft skills foi a integração eficiente de feedbacks da equipe para melhorar a navegação do usuário no sistema.
-
-Em resumo, este projeto foi meu primeiro contato com o desenvolvimento web e me proporcionou um aprendizado fundamental sobre conceitos básicos, enquanto também me ajudou a desenvolver competências interpessoais e técnicas.
 
 ### Tecnologias utilizadas no projeto:
 - **HTML**: Estruturação e desenvolvimento das interfaces web.
@@ -138,17 +139,6 @@ Em resumo, este foi meu segundo projeto de API da Fatec, onde aprofundei minhas 
 - **MySQL**: Banco de dados para armazenamento e gerenciamento das informações dos alunos.
 
 
-### [Commit da alteração - Criação da tela de adicionar aluno](https://github.com/apiFatec/API-2-Semestre-Bertoti/commit/119969bf15206b26cbbabfa5ad3b2bc19854c5c7#diff-0cfeb9859735023f36f7e40478fb48adf7543a07b33f68c56fbc92c42d84209c)
-![image](https://github.com/user-attachments/assets/b86f605e-9bcb-4ce8-8028-331510727c12)
-
-<details id="outras-imagens">
-  <summary>Clique para outras contribuições do projeto</summary>
-  - <a href="https://github.com/apiFatec/API-2-Semestre-Bertoti/commit/4ba4756f51c12863baffbf101f20d3eb531166ff#diff-70d649741552e70d3a2ecb1ac4fa04000280d956d8399390987c9e3f4d873544" target="_blank">Commit da alteração - Desenvolvimento do controller</a>
- <br>
-  - <a href="https://github.com/apiFatec/API-2-Semestre-Bertoti/commit/63d65a0b3493fb41af9bcd97952a7980fd510f55#diff-478f926f3b5764f3fba7f0b7fc01971ea6f3b3648331b8e4fe8fc54223d1173e" target="_blank">Fix de form de editar aluno</a>
-</details>
-
-
 ### Link do repositório 
 - [Segunda API](https://github.com/apiFatec/API-2-Semestre-Bertoti)
 
@@ -193,24 +183,10 @@ Em resumo, este projeto com a Ionic Health foi uma excelente oportunidade para a
 - **Postgres**: Banco de dados para armazenamento e gerenciamento das informações regulatórias.
 
 
-### [Commit da alteração - Criação da tela de dropdown Button](https://github.com/apiFatec/API-3-Semestre-Ionic/commit/8fb20cad4b57de246f26aec55a7f4c95146e826a)
-![image](https://github.com/user-attachments/assets/3cec82a8-73d4-45e6-980e-295f09adbfe3)
-
-<details id="outras-imagens">
-  <summary>Clique para outras contribuições do projeto</summary>
-  - <a href="https://github.com/apiFatec/API-3-Semestre-Ionic/commit/da60f1a875b59723e78f4951e6f5fbd398d2ce4b#diffcd6a4a1ced74971ccc7823e2fe1f397927c23d7f9ea264a6d0f844c7588ace43" target="_blank">Commit da alteração - Desenvolvimento do controle de rotas</a>
- <br>
-  - <a href="https://github.com/apiFatec/API-3-Semestre-Ionic/commit/dc359fde21ccad51cdbf47ce80fe63c3ea138930" target="_blank">Commit da alteração - Melhoria do theme toggle button</a>
- <img src="https://github.com/user-attachments/assets/e132330b-9d18-4b41-87b5-6693ec42630a" alt="image" width="1000" height="600"/>
- <img src="https://github.com/user-attachments/assets/3f3351bb-bb54-4eab-8ce9-4174f5a80dd1" alt="image" width="1000" height="600"/>
-</details>
-
-
 ### Link do repositório 
 - [Terceira API](https://github.com/apiFatec/API-3-Semestre-Ionic)
 
 </details>
-
 
 <details id="api-4-semestre">
 <summary><h2>API Do Quarto Semestre</h2></summary>
@@ -247,22 +223,6 @@ Em resumo, este projeto com a Siatt foi uma excelente oportunidade para aprofund
 - **Typescript**: Linguagem que adiciona tipagem estática ao JavaScript, melhorando a segurança e robustez do código.
 - **Mysql:**: Banco de dados relacional utilizado para armazenamento e gerenciamento de dados.
 - **Node JS**: Ambiente de execução para o backend, permitindo a criação de APIs e integração com o banco de dados.
-
-### [Commit da alteração - Validação do nível de usuário](https://github.com/Equipe-FULLSTACK/API-4/commit/b2db022f259222514afc7790f74121597015497b)
-#### renderiza a sidebar de acordo com o nível do usuário (user ou admin)
-![image](https://github.com/user-attachments/assets/437c73fa-fffb-4614-9c4b-2532234cb198)
-![image](https://github.com/user-attachments/assets/16cdee10-edb2-4868-8f29-d894243725eb)
-
-<details id="outras-imagens">
-  <summary>Clique para outras contribuições do projeto</summary>
-  - <a href="https://github.com/Equipe-FULLSTACK/API-4/commit/4ac733972428f64548ee3efd460aef7e50add293" target="_blank">Commit da alteração - Correção de lista de salas</a>
- <br>
-  - <a href="https://github.com/Equipe-FULLSTACK/API-4/commit/310f92dff15a201e44ebc20264aef77c0b45d0c3" target="_blank">Commit da alteração - Correção do estilo da lista de salas</a>
- <br>
- - <a href="https://github.com/Equipe-FULLSTACK/API-4/commit/7ea556ae2298d96082c86d70e13788af425046a1" target="_blank">Commit da alteração - Criação de telas de salas online</a>
- <br>
-  <img src="https://github.com/user-attachments/assets/46e90379-762b-4255-8eab-529592113a25" alt="image"/>
-</details>
 
 ### Link do repositório 
 - [Quarta API](https://github.com/Equipe-FULLSTACK/API-4)
@@ -317,22 +277,6 @@ Em resumo, este projeto foi uma excelente oportunidade para aprimorar minhas hab
 - **MongoDB**: Banco de dados NoSQL utilizado para armazenamento eficiente de dados e histórico dos pontos cadastrados.
 - **Typescript**: Linguagem que adiciona tipagem estática ao JavaScript, garantindo maior segurança e robustez no código.
 - **Node.js**: Ambiente de execução para o backend, permitindo a criação de APIs e integração com o banco de dados.
-
-
-### [Commit da alteração - Criação da tela de Login](https://github.com/FATEC-FULLSTACK/FRONTEND-API5S/commit/7006cfbf39cba414ee529b1d959788736ea97874)
-![image](https://github.com/user-attachments/assets/97108b1b-fce9-4140-9238-beafa43915cf)
-
-<details id="outras-imagens">
-  <summary>Clique para outras contribuições do projeto</summary>
-  - <a href="https://github.com/FATEC-FULLSTACK/FRONTEND-API5S/commit/d4f85030e8fb12e8ef5bc20f9e8bf89b6410493f" target="_blank">Commit da alteração - Integração do login com backend</a>
- <br>
-  - <a href="https://github.com/FATEC-FULLSTACK/FRONTEND-API5S/commit/8e9dbba546e9712820ed996fa7db537863079765" target="_blank">Commit da alteração - Correção da API do Google Maps</a>
- <br>
- - <a href="https://github.com/FATEC-FULLSTACK/FRONTEND-API5S/commit/ea4bde9afcc6ef387f838b8cba0dff910b991f6f" target="_blank">Commit da alteração - Funcionalidade de pesquisa da localização no mapa</a>
- <br>
-  <img src="https://github.com/user-attachments/assets/49880a1c-1aa3-4419-ac68-05771c22a6ec" alt="image"/>
-</details>
-
 
 ### Link do repositório 
 - [Quinta API](https://github.com/FATEC-FULLSTACK/FRONTEND-API5S)
