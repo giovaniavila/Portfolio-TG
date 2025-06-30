@@ -55,7 +55,7 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 ### Primeiro Semestre (2022 - 2)
 
-O projeto que foi desenvolvido nesse semeestre é um sistema de ordem de serviços com o objetivo principal de informar computadores com mau funcionamento dentro do campus FATEC prof. Jessen Vidal e também navegar de forma dinâmica pelo mapa da FATEC.
+O projeto que foi desenvolvido nesse semestre é um sistema de ordem de serviços com o objetivo principal de informar computadores com mau funcionamento dentro do campus FATEC prof. Jessen Vidal e também navegar de forma dinâmica pelo mapa da FATEC.
 
 A **empresa cliente** deste projeto é a própria **Fatec de São José dos Campos**, uma faculdade de tecnologia renomada, onde o sistema foi desenvolvido para melhorar a gestão e o reporte de problemas em computadores do campus. O projeto foi supervisionado pelos professores **Jean Carlos Lourenço Costa** e **Antonio Egydio**, que forneceram orientações durante todo o processo.
 
