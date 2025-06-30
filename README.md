@@ -224,7 +224,7 @@ Desenvolvi a lógica de validação do nível de usuário, permitindo identifica
 ### Hard Skills
 Durante o desenvolvimento, utilizei React, onde tenho um nível avançado de experiência, e Material UI, com nível intermediário. Essas tecnologias foram essenciais para criar interfaces responsivas e interativas, além de facilitar a integração de sistemas, o que ajudou a melhorar a experiência do usuário e a eficiência do projeto.
 
-### Soft Skilss
+### Soft Skills
 Um exemplo de como atuei na resolução de problemas foi quando a equipe teve dificuldades para alinhar os requisitos da integração de sistemas. Organizei uma reunião para esclarecer dúvidas e garantir que todos estivessem na mesma página, o que foi essencial para resolver desafios e garantir que o projeto fosse entregue dentro do cronograma. Essa abordagem colaborativa foi crucial para superar obstáculos e assegurar o andamento contínuo do projeto.
 
 
